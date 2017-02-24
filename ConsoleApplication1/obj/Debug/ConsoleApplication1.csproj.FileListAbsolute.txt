@@ -1,0 +1,2 @@
+c:\users\wesco\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Git-Projects\test-tc\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
